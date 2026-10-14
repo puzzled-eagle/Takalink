@@ -1,0 +1,8 @@
+{
+  "name": "TakaLink - Waste Marketplace & Circular Economy",
+  "description": "Turning waste into value. Connect waste suppliers, recyclers, buyers, and transporters across Eldoret and beyond with AI-assisted material classification, smart aggregation, and transparent logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
